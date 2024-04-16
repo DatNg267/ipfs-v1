@@ -76,7 +76,8 @@ export default function MyApp(props: MyAppProps) {
           <meta name='twitter:site' content={HEAD_SEO.twitter.site} />
           <meta property='og:image' content={HEAD_SEO.og.ogImage} />
           <meta property='og:site_name' content={HEAD_SEO.og.siteName} />
-
+          <meta name='robots' content='noindex, nofollow' />
+          {/* Added this line for robots no index */}
           {/* LP && LOGIN PAGE*/}
           {(router.asPath === '/' || router.asPath.includes('/auth')) && (
             <>
@@ -99,7 +100,6 @@ export default function MyApp(props: MyAppProps) {
               />
             </>
           )}
-
           {/* DOCS */}
           {router.asPath.includes(AppRouter.DOCUMENT) &&
             pageProps &&
@@ -142,7 +142,6 @@ export default function MyApp(props: MyAppProps) {
                 />
               </>
             )}
-
           {/* DASHBOARD */}
           {router.asPath.includes('dashboard') && (
             <>
