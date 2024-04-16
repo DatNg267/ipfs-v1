@@ -1,0 +1,263 @@
+@font-face {
+  font-family: 'Array';
+  src: url('../fonts/array/Array-Bold.woff2') format('woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Array';
+  src: url('../fonts/array/Array-Semibold.woff2') format('woff2');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Array';
+  src: url('../fonts/array/Array-Regular.woff2') format('woff2');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'ClashGrotesk';
+  src: url('../fonts/clashcrotesk/ClashGrotesk-Semibold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'ClashGrotesk';
+  src: url('../fonts/clashcrotesk/ClashGrotesk-Medium.otf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'ClashGrotesk';
+  src: url('../fonts/clashcrotesk/ClashGrotesk-Regular.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'ClashGrotesk';
+  src: url('../fonts/clashcrotesk/ClashGrotesk-Regular.otf');
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html,
+body {
+  font-family: 'ClashGrotesk', sans-serif;
+  font-size: 1.6rem;
+  background-color: #ffffec;
+  /* letter-spacing: -0.015rem; */
+  /* background-color: black; */
+}
+
+.icon-wrapper:not(:first-child) {
+  margin-left: 16px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 551px;
+  min-width: 551px;
+  max-width: 551px;
+  padding: 32px;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.stack-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.stack-item {
+  margin-top: 32px;
+}
+
+.group-item-16 {
+  margin-top: 16px;
+}
+
+.group-item-8 {
+  margin-top: 8px;
+}
+
+img {
+  border: none;
+  -ms-interpolation-mode: bicubic;
+  width: fit-content;
+}
+
+/* Typography */
+.body1 {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+}
+
+.body2 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.h4 {
+  font-size: 34px;
+  line-height: 44px;
+  font-weight: 700;
+  font-family: 'Array', sans-serif;
+}
+
+.typo-button {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.typo-button.decoration {
+  text-decoration: underline;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Button  */
+.button-primary {
+  cursor: pointer;
+
+  color: white;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  background-color: #000;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  min-width: 160px;
+  width: 160px;
+  border: none;
+  border-radius: 8px;
+}
+
+.button-primary.size-large {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.divider {
+  height: 1px;
+  border: 1px solid #ccccbd;
+}
+
+a {
+  color: #0085ff;
+
+}
+
+.icon-wrapper {
+  width: 24px;
+  height: 24px;
+}
+
+.icon-wrapper svg {
+  display: block;
+}
+
+.mt-8 {
+  margin-top: 8px;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+
+.mt-32 {
+  margin-top: 32px;
+}
+
+.ml-4 {
+  margin-left: 4px;
+}
+
+.mr-4 {
+  margin-right: 4px;
+}
+
+.ml-8 {
+  margin-left: 8px;
+}
+
+.mr-8 {
+  margin-right: 8px;
+}
+
+.ml-16 {
+  margin-left: 16px;
+}
+
+.mr-16 {
+  margin-right: 16px;
+}
+
+.pl-4 {
+  padding-left: 4px;
+}
+
+.pr-4 {
+  padding-right: 4px;
+}
+
+.pl-8 {
+  padding-left: 8px;
+}
+
+.pr-8 {
+  padding-right: 8px;
+}
+
+.pl-16 {
+  padding-left: 16px;
+}
+
+.pr-16 {
+  padding-right: 16px;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-medium {
+  font-weight: 600;
+}
+
+.text-regular {
+  font-weight: 500;
+}
+
+.text-light {
+  font-weight: 400;
+}

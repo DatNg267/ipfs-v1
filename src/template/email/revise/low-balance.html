@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ .Subject}}</title>
+  </head>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+    html {
+      font-size: 62.5%;
+    }
+
+    html,
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #e5e5e5;
+      padding: 28px;
+    }
+    a {
+      color: #0085ff;
+    }
+
+    .group-item-16 {
+      margin-top: 16px;
+    }
+
+    .group-item-8 {
+      margin-top: 8px;
+    }
+
+    img {
+      border: none;
+      -ms-interpolation-mode: bicubic;
+      width: fit-content;
+    }
+
+    /* Typography */
+    .body1 {
+      font-size: 18px;
+      line-height: 28px;
+      font-weight: 500;
+    }
+
+    .body2 {
+      font-size: 16px;
+      line-height: 24px;
+      font-weight: 400;
+    }
+
+    .h4 {
+      font-size: 34px;
+      line-height: 44px;
+      font-weight: 700;
+      font-family: 'Array', sans-serif;
+    }
+
+    .typo-button {
+      font-size: 14px;
+      line-height: 24px;
+      font-weight: 400;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    .typo-button.decoration {
+      text-decoration: underline;
+    }
+
+    .text-center {
+      text-align: center;
+    }
+
+    /* Button  */
+    .button-primary {
+      cursor: pointer;
+
+      color: white;
+      font-size: 16px;
+      line-height: 24px;
+      font-weight: 600;
+      background-color: #000;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      min-width: 160px;
+      width: 160px;
+      border: none;
+      border-radius: 8px;
+    }
+
+    .button-primary.size-large {
+      font-size: 18px;
+      line-height: 28px;
+    }
+
+    .divider {
+      height: 1px;
+      border: 1px solid #ccccbd;
+    }
+
+    a {
+      color: #0085ff;
+    }
+
+    .mt-8 {
+      margin-top: 8px;
+    }
+
+    .mt-16 {
+      margin-top: 16px;
+    }
+
+    .mt-32 {
+      margin-top: 32px;
+    }
+
+    .ml-4 {
+      margin-left: 4px;
+    }
+
+    .mr-4 {
+      margin-right: 4px;
+    }
+
+    .ml-8 {
+      margin-left: 8px;
+    }
+
+    .mr-8 {
+      margin-right: 8px;
+    }
+
+    .ml-16 {
+      margin-left: 16px;
+    }
+
+    .mr-16 {
+      margin-right: 16px;
+    }
+
+    .pl-4 {
+      padding-left: 4px;
+    }
+
+    .pr-4 {
+      padding-right: 4px;
+    }
+
+    .pl-8 {
+      padding-left: 8px;
+    }
+
+    .pr-8 {
+      padding-right: 8px;
+    }
+
+    .pl-16 {
+      padding-left: 16px;
+    }
+
+    .pr-16 {
+      padding-right: 16px;
+    }
+
+    .text-bold {
+      font-weight: 700;
+    }
+
+    .text-medium {
+      font-weight: 600;
+    }
+
+    .text-regular {
+      font-weight: 500;
+    }
+
+    .text-light {
+      font-weight: 400;
+    }
+  </style>
+  <body>
+    <table
+      class="body-wrap"
+      style="
+        font-family: 'Roboto', sans-serif;
+        box-sizing: border-box;
+        font-size: 14px;
+        width: 100%;
+        background-color: transparent;
+        margin: 0;
+      "
+    >
+      <tr
+        style="
+          font-family: Roboto, sans-serif;
+          box-sizing: border-box;
+          font-size: 14px;
+          margin: 0px;
+        "
+      >
+        <td
+          class="container"
+          style="
+            font-family: Roboto, sans-serif;
+            box-sizing: border-box;
+            font-size: 14px;
+            vertical-align: top;
+            display: block !important;
+            max-width: 600px !important;
+            clear: both !important;
+            margin: 0px auto;
+          "
+          width="600"
+          valign="top"
+        >
+          <table
+            class="main"
+            itemprop="action"
+            itemscope=""
+            itemtype="http://schema.org/ConfirmAction"
+            style="
+              font-family: Roboto, sans-serif;
+              box-sizing: border-box;
+              font-size: 14px;
+              border-radius: 3px;
+              margin: 0px;
+              border: medium none;
+            "
+            width="100%"
+            cellspacing="0"
+            cellpadding="0"
+          >
+            <tr
+              style="
+                font-family: Roboto, sans-serif;
+                font-size: 14px;
+                margin: 0px;
+              "
+            >
+              <td
+                class="content-wrap"
+                style="
+                  font-family: Roboto, sans-serif;
+                  box-sizing: border-box;
+                  font-size: 14px;
+                  vertical-align: top;
+                  margin: 0px;
+                  padding: 30px;
+                  box-shadow: rgba(30, 32, 37, 0.06) 0px 3px 15px;
+                  border-radius: 16px;
+                  background-color: #ffffec;
+                "
+                valign="top"
+              >
+                <table
+                  style="
+                    font-family: Roboto, sans-serif;
+                    box-sizing: border-box;
+                    font-size: 14px;
+                    margin: 0px;
+                  "
+                  width="100%"
+                  cellspacing="0"
+                  cellpadding="0"
+                >
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      font-size: 14px;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 14px;
+                        vertical-align: center;
+                        margin: 0px;
+                        text-align: center;
+                        height: 44px;
+                      "
+                      valign="center"
+                    >
+                      <img
+                        src="https://f004.backblazeb2.com/file/aioz-ipfs/Property+1=LOGO.png"
+                        alt=""
+                        height="33"
+                      />
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      font-size: 14px;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p
+                        style="
+                          font-family: Roboto, sans-serif;
+                          font-weight: bold;
+                          font-size: 18px;
+                          line-height: 28px;
+                          margin-top: 32px;
+                        "
+                      >
+                        Hi {{.FirstName}},
+                      </p>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      font-size: 14px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p
+                        style="
+                          font-family: Roboto, sans-serif;
+                          font-weight: 600;
+                          font-size: 16px;
+                          line-height: 24px;
+                          margin-top: 16px;
+                        "
+                      >
+                        Low Balance!
+                      </p>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      font-size: 14px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p
+                        style="
+                          font-family: Roboto, sans-serif;
+                          font-weight: 400;
+                          font-size: 16px;
+                          line-height: 24px;
+                        "
+                      >
+                        Attention: You're about to run out of account funds.
+                      </p>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      font-size: 14px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p
+                        style="
+                          font-family: Roboto, sans-serif;
+                          font-weight: 400;
+                          font-size: 16px;
+                          line-height: 24px;
+                        "
+                      >
+                        Your account will be deleted after {{.Days}} days, you
+                        should fund your account and stay connected to our
+                        platform.
+                      </p>
+                    </td>
+                  </tr>
+
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p style="margin-top: 32px">Cheers!</p>
+                      <p style="font-weight: bold">AIOZ Pining Service.</p>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p
+                        style="margin-top: 32px; border-top: 1px solid #ccccbd"
+                      ></p>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p style="margin-top: 16px; text-align: center">
+                        Please send and feedback or bug info to
+                        <a href="#">{{.EmailFeedback}}</a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                      "
+                      valign="top"
+                    >
+                      <p
+                        class="body2"
+                        style="text-align: center; font-weight: bold"
+                      >
+                        Need Help?
+                      </p>
+                    </td>
+                  </tr>
+
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                        text-align: center;
+                        padding-top: 16px;
+                      "
+                      valign="top"
+                    >
+                      <a style="text-decoration: none" href="{{.GithubUrl}}">
+                        <img
+                          width="24"
+                          height="24"
+                          alt="GitHub Logomark"
+                          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715"
+                        />
+                      </a>
+
+                      <a
+                        style="text-decoration: none; margin-left: 12px"
+                        href="{{.TwitterUrl}}"
+                      >
+                        <img
+                          width="25"
+                          height="24"
+                          alt="Twitter Logo"
+                          src="https://s3-beta.aioz.storage/dat-nguyen-30/TW.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=FQHFVQCTVINH5RTE4MS5AKRYMVFA%2F20230620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230620T042709Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb7afa8654508ddcf3f52244a0e5718d7af828b5aa6aa151893c14d1a090dbff"
+                        />
+                      </a>
+                      <a
+                        style="text-decoration: none; margin-left: 12px"
+                        href="{{.TelegramUrl}}"
+                      >
+                        <img
+                          width="24"
+                          height="24"
+                          alt="Telegram Logo"
+                          src="https://icons.veryicon.com/png/o/application/awesome-common-free-open-source-icon/telegram-4.png"
+                        />
+                      </a>
+                    </td>
+                  </tr>
+
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                        text-align: center;
+                        padding-top: 1px;
+                      "
+                      valign="top"
+                    >
+                      <span style="text-align: center">Copyright</span>
+                      <span
+                        style="text-align: center; text-transform: uppercase"
+                      >
+                        2023 W3IPFS.STORAGE |
+                      </span>
+                      <span style="text-align: center; text-transform: none">
+                        All Rights Reserved
+                      </span>
+                    </td>
+                  </tr>
+                  <tr
+                    style="
+                      font-family: Roboto, sans-serif;
+                      box-sizing: border-box;
+                      margin: 0px;
+                    "
+                  >
+                    <td
+                      class="content-block"
+                      style="
+                        font-family: Roboto, sans-serif;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 24px;
+                        vertical-align: top;
+                        margin: 0px;
+                        text-align: center;
+                        padding-top: 8px;
+                      "
+                      valign="top"
+                    >
+                      <a
+                        href="{{.TermOfServiceUrl}}"
+                        style="color: black; text-decoration: none"
+                      >
+                        <span
+                          style="
+                            color: black;
+                            text-align: center;
+                            text-decoration: underline;
+                          "
+                        >
+                          Terms of Service
+                        </span>
+                        <span style="text-decoration: none">&nbsp;|</span>
+                        <span
+                          style="
+                            color: black;
+                            text-align: center;
+                            text-decoration: underline;
+                          "
+                        >
+                          Privacy
+                        </span>
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+@keyframes toggleCircleFill {
+  0% {
+    opacity: 1;
+    fill: #6461F3;
+  }
+
+  20% {
+    fill: #4CF3D5;
+  }
+
+  40% {
+    fill: #F57E7E;
+  }
+
+  60% {
+    fill: #E94B84;
+  }
+
+  80% {
+    fill: #B361F3;
+  }
+
+  100% {
+    opacity: 1;
+    fill: #4CF3D5;
+  }
+}
+
+.colorChangeCircle {
+  opacity: 0;
+  animation: toggleCircleFill 5s ease-in-out infinite;
+}

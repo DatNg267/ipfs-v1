@@ -1,0 +1,45 @@
+.m-scroll {
+  display: flex;
+  background-color: #d34444;
+  overflow: hidden;
+  height: 80px;
+  &__title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+    transition: all 1s ease;
+    & > div {
+      display: flex;
+      animation: scrollText 33s infinite linear;
+      align-items: center;
+      justify-content: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 140px;
+      color: rgba(255, 255, 255, 1);
+      transition: all 2s ease;
+    }
+    a {
+      text-decoration: none;
+      color: white;
+    }
+    h6:hover {
+      -webkit-text-stroke: 1px white;
+      color: transparent;
+    }
+  }
+}
+
+/*div:hover {
+  animation-play-state: paused;
+}*/
+@keyframes scrollText {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}

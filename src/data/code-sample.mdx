@@ -1,0 +1,32 @@
+---
+title: 'TEST TITLE'
+description: /api/apiKeys/
+---
+
+# Generate W3IPFS API key
+
+This endpoint is used to programmatically generate W3IPFS API keys. This endpoint can only be called by using an "Admin" key. When generating new keys, specific scopes and limits can be implemented.&#x20;
+
+> **Make sure to record the API Secret as they will not be accessible again.**
+
+## Generating an API Key
+
+The request body when generating a W3IPFS API key will look like this:&#x20;
+
+```js
+import s from './article.module.css'
+import ArticleHeader from './header'
+export default function Article({ frontMatter, source }) {
+  const { title, date, author, tags, readingTime } = frontMatter
+  return (
+    <div className={s.root}>
+      <ArticleHeader
+        date={date}
+        author={author}
+        tags={tags}
+        readingTime={readingTime}
+      />
+    </div>
+  )
+}
+```

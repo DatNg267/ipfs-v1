@@ -1,0 +1,2907 @@
+{
+  "pageProps": {
+    "files": {
+      "oFXCGn5aMihhJPfxR1ff": {
+        "id": "oFXCGn5aMihhJPfxR1ff",
+        "name": "ipfs-attoaioz-cyou-auth-register.png",
+        "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FDTKXiQN7GeSHBFmDPtJ0%2Fipfs-attoaioz-cyou-auth-register.png?alt=media&token=28a7bd06-5930-4d5b-a206-103839e665eb",
+        "contentType": "image/png"
+      },
+      "Fqjti73ZNB3P9nluN5op": {
+        "id": "Fqjti73ZNB3P9nluN5op",
+        "name": "ipfs-attoaioz-cyou-dashboard-billing-tag-month-usage.png",
+        "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2Foz8V3ffUdSr8ZQYVzzWL%2Fipfs-attoaioz-cyou-dashboard-billing-tag-month-usage.png?alt=media&token=45469c88-4563-4031-8059-95fcec892883",
+        "contentType": "image/png"
+      },
+      "f29M6bS3lFBCZL0wrr3R": {
+        "id": "f29M6bS3lFBCZL0wrr3R",
+        "name": "ipfs-attoaioz-cyou-dashboard-billing-tag-month-usage (1).png",
+        "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FqNSwvSebz8YAQ2oLS6sf%2Fipfs-attoaioz-cyou-dashboard-billing-tag-month-usage%20(1).png?alt=media&token=4f3e54d8-eb80-417f-b377-78680357e240",
+        "contentType": "image/png"
+      },
+      "8QjFhd46tav9lYVGFU3f": {
+        "id": "8QjFhd46tav9lYVGFU3f",
+        "name": "ipfs-attoaioz-cyou-dashboard-ipfs-files.png",
+        "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2F7r8JH0Kg5zp6HdvNvWGs%2Fipfs-attoaioz-cyou-dashboard-ipfs-files.png?alt=media&token=cc51b04a-e9a7-4f0e-a1b9-9a92ebd6d5f1",
+        "contentType": "image/png"
+      },
+      "TIhrELRWyhZhYvCZGine": {
+        "id": "TIhrELRWyhZhYvCZGine",
+        "name": "ipfs-attoaioz-cyou-dashboard-ipfs-files (1).png",
+        "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FuuhWXBQ3HmXc54SX7gc1%2Fipfs-attoaioz-cyou-dashboard-ipfs-files%20(1).png?alt=media&token=07a7ce56-1cfc-4d13-b9ce-201fbfb7990d",
+        "contentType": "image/png"
+      },
+      "09RLQhTum58CHQoQJ5gT": {
+        "id": "09RLQhTum58CHQoQJ5gT",
+        "name": "ipfs-attoaioz-cyou-dashboard-api-keys.png",
+        "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FEth1mOLhaYnofAHNUBVX%2Fipfs-attoaioz-cyou-dashboard-api-keys.png?alt=media&token=17a5bd1f-d5a2-4c4f-b7e1-63b379b98224",
+        "contentType": "image/png"
+      }
+    },
+    "data": {
+      "id": "kWnJvi38qbk0ivAA35zR",
+      "title": "🧑💻 Quick start",
+      "kind": "sheet",
+      "type": "document",
+      "description": "This document will guide you through the quick start process to help you get started with our W3IPFS service. Let's dive in!",
+      "path": "quick-start",
+      "slug": "quick-start",
+      "pages": [],
+      "document": {
+        "object": "document",
+        "data": {
+          "schemaVersion": 6,
+          "documentId": "OTLOgR943ZFbRKg28TMc"
+        },
+        "nodes": [
+          {
+            "object": "block",
+            "type": "heading-1",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Introduction",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Welcome to AIOZ W3IPFS Infrastructure, the revolutionary one-stop shop for all your NFT (Non-Fungible Token) storage, and pinning needs. Our platform combines the power of AIOZ Network and IPFS to provide a comprehensive solution for managing your valuable digital assets.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "AIOZ W3IPFS Infrastructure offers a cutting-edge infrastructure that ensures the integrity, accessibility, and long-term preservation of your NFTs. Whether you are an artist, collector, or developer, our service is designed to simplify the complex process of managing NFT files and data.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "With AIOZ W3IPFS, you can easily create an account, upload files, and interact with our service through a user-friendly website or programmatically via our powerful SDK API. Whether you need to store individual NFT files or entire directories, our platform ensures secure and efficient storage.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "heading-1",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Steps to Use Our Product",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Follow the step-by-step instructions below to quickly set up and start using the AIOZ W3IPFS service.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "heading-2",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Step 1: Creating an AIOZ W3IPFS Account",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "To begin, you need to create an AIOZ W3IPFS account. Visit the ",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              },
+              {
+                "object": "inline",
+                "type": "link",
+                "isVoid": false,
+                "data": {
+                  "ref": {
+                    "kind": "url",
+                    "url": "https://ipfs.attoaioz.cyou/auth/register"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "AIOZ W3IPFS account creation page",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": " and follow the provided instructions to set up your account.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "images",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "image",
+                "isVoid": true,
+                "data": {
+                  "alt": "",
+                  "ref": {
+                    "kind": "file",
+                    "file": "oFXCGn5aMihhJPfxR1ff"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ],
+                "fragments": [
+                  {
+                    "object": "fragment",
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "paragraph",
+                        "isVoid": false,
+                        "data": {},
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "AIOZ W3IPFS account creation page",
+                                "marks": [],
+                                "selections": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "fragment": "caption"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "heading-2",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Step 2: Top up AIOZ",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Navigate to the \"Billing\" tab. Click on the \"Top Up\" button. This action will trigger a pop-up window for the top-up process. In the pop-up window, select the estimated monthly storage and monthly delivery bandwidth that you require.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "images",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "image",
+                "isVoid": true,
+                "data": {
+                  "alt": "",
+                  "ref": {
+                    "kind": "file",
+                    "file": "Fqjti73ZNB3P9nluN5op"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ],
+                "fragments": [
+                  {
+                    "object": "fragment",
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "paragraph",
+                        "isVoid": false,
+                        "data": {},
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "",
+                                "marks": [],
+                                "selections": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "fragment": "caption"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Choose the ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "Pay with AIOZ Native",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "code",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " option. A payment address and QR code will be displayed. Take note of the address or scan the QR code using your wallet application. Use your wallet to send the desired amount of AIOZ tokens to the provided address. Wait for a few minutes while the transaction is confirmed.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "images",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "image",
+                "isVoid": true,
+                "data": {
+                  "alt": "",
+                  "ref": {
+                    "kind": "file",
+                    "file": "f29M6bS3lFBCZL0wrr3R"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ],
+                "fragments": [
+                  {
+                    "object": "fragment",
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "paragraph",
+                        "isVoid": false,
+                        "data": {},
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "",
+                                "marks": [],
+                                "selections": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "fragment": "caption"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Once the transaction is confirmed, the status of the transaction will be displayed in your account. You will be able to see the details of the transaction, including the transaction ID.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "heading-2",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Step 3: Uploading a File via the Website",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Once you have an account, you can easily ",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              },
+              {
+                "object": "inline",
+                "type": "link",
+                "isVoid": false,
+                "data": {
+                  "ref": {
+                    "kind": "url",
+                    "url": "https://ipfs.attoaioz.cyou/dashboard/ipfs-files"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "upload files using our website",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": ". From there, you can select the file you want to upload and initiate the upload process. ",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Click on the \"+\" button located in the top right corner of the website interface. Select \"Upload file\". ",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "images",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "image",
+                "isVoid": true,
+                "data": {
+                  "alt": "",
+                  "ref": {
+                    "kind": "file",
+                    "file": "8QjFhd46tav9lYVGFU3f"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ],
+                "fragments": [
+                  {
+                    "object": "fragment",
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "paragraph",
+                        "isVoid": false,
+                        "data": {},
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "",
+                                "marks": [],
+                                "selections": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "fragment": "caption"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "To upload files, drag and drop the files you want to upload from your computer directly into the website. Alternatively, click on the file selection area to browse your computer and select the files you wish to upload. Click on the \"Upload\" button to initiate the upload process",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "images",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "image",
+                "isVoid": true,
+                "data": {
+                  "alt": "",
+                  "ref": {
+                    "kind": "file",
+                    "file": "TIhrELRWyhZhYvCZGine"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ],
+                "fragments": [
+                  {
+                    "object": "fragment",
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "paragraph",
+                        "isVoid": false,
+                        "data": {},
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "",
+                                "marks": [],
+                                "selections": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "fragment": "caption"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "heading-2",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Step 4: Getting a Free API Key",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "W3IPFS offers developer keys for various scenarios. The most common scenario is normal IPFS actions (pinning content, unpinning, listing content, etc). You can access and create your W3IPFS API keys here:",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " ",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "bold",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  }
+                ]
+              },
+              {
+                "object": "inline",
+                "type": "link",
+                "isVoid": false,
+                "data": {
+                  "ref": {
+                    "kind": "url",
+                    "url": "https://ipfs.attoaioz.cyou/dashboard/api-keys"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "W3IPFS Pinning API Keys Page",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          }
+                        ],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "images",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "image",
+                "isVoid": true,
+                "data": {
+                  "alt": "",
+                  "ref": {
+                    "kind": "file",
+                    "file": "09RLQhTum58CHQoQJ5gT"
+                  }
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ],
+                "fragments": [
+                  {
+                    "object": "fragment",
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "paragraph",
+                        "isVoid": false,
+                        "data": {},
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "",
+                                "marks": [],
+                                "selections": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "fragment": "caption"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Enter a key name for your API Key and click ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "Create Key",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "bold",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Make a note of the ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "Token",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "bold",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " field somewhere secure where you know you won't lose it. You can click ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "Copy",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "bold",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " to copy your new API token to your clipboard.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "heading-2",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Step 5: Uploading Files & Directories via the W3IPFS SDK API",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "list-ordered",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "list-item",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "isVoid": false,
+                    "data": {},
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Create a new project by making a new directory and initializing a new project using npm. Open your terminal and run the following commands:",
+                            "marks": [],
+                            "selections": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "code",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "mkdir aioz-w3ipfs",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "cd aioz-w3ipfs",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "npm init",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "list-ordered",
+            "isVoid": false,
+            "data": {
+              "start": 2
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "list-item",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "isVoid": false,
+                    "data": {},
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Add the ",
+                            "marks": [],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "aioz-w3ipfs-sdk",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "code",
+                                "data": {}
+                              }
+                            ],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " client to your project dependencies.",
+                            "marks": [],
+                            "selections": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "code",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "npm install aioz-w3ipfs-sdk",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "list-ordered",
+            "isVoid": false,
+            "data": {
+              "start": 3
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "list-item",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "isVoid": false,
+                    "data": {},
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Create a file called ",
+                            "marks": [],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "pinToIPFS.js",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "code",
+                                "data": {}
+                              }
+                            ],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " and open it with your code editor. Use the ",
+                            "marks": [],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "client.pinFileToIPFS",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "code",
+                                "data": {}
+                              }
+                            ],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " method to pin the file to IPFS, passing in the readable stream for the file and the options object",
+                            "marks": [],
+                            "selections": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "code",
+            "isVoid": false,
+            "data": {
+              "syntax": "javascript"
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "import W3IpfsClient from 'aioz-w3ipfs-sdk';",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "import fs from 'fs';",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "let client = new W3IpfsClient(\"key\", \"secret-key\")",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "const readableStreamForFile = fs.createReadStream('./test.png');",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "const options = {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    w3IpfsMetadata: {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        name: \"MyCustomName\",",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        keyvalues: {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "            customKey: 'customValue',",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "            customKey2: 'customValue2'",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        }",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    }",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "};",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "client.pinFileToIPFS(readableStreamForFile, options).then((result) => {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    console.log(result);",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "}).catch((err) => {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    console.log(err);",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "})",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "To pin a folder, use the ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "client.pinFolderToIPFS",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "code",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " method, providing the path to the folder as a string. In this example, we're pinning a folder named ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "folder",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "code",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": ":",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "code",
+            "isVoid": false,
+            "data": {
+              "syntax": "javascript"
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "client.pinFolderToIPFS('./folder', options).then((result) => {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    console.log(result);",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "}).catch((err) => {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    console.log(err);",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "});",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "To pin NFT using the AIOZ W3IPFS service",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "code",
+            "isVoid": false,
+            "data": {
+              "syntax": "javascript"
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "const readableStreamForMetadata = fs.createReadStream('./sample.json');",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "const readableStreamForFile = fs.createReadStream('./test.png');",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "client.pinNft(readableStreamForFile, undefined, readableStreamForMetadata, options)",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": ".then((result) => {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    console.log(result);",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "}).catch((err) => {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    console.log(err);",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "});",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "In this example, the ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "sample.json",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "code",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " file represents the metadata for the NFT. Here's a breakdown of the fields:",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "code",
+            "isVoid": false,
+            "data": {
+              "syntax": "json"
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "{",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    \"name\": \"My Awesome NFT\",",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    \"description\": \"This is an NFT that represents my creativity as a digital artist!\",",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    \"properties\": [",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "            \"trait_type\": \"Color\",",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "            \"value\": \"Red\"",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        },",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        {",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "            \"trait_type\": \"Rarity\",",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "            \"value\": \"Medium\"",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "        }",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "    ]",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "code-line",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "}",
+                        "marks": [],
+                        "selections": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "list-unordered",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "block",
+                "type": "list-item",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "isVoid": false,
+                    "data": {},
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "\"name\"",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "code",
+                                "data": {}
+                              }
+                            ],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": ": The name of the NFT.",
+                            "marks": [],
+                            "selections": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "list-item",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "isVoid": false,
+                    "data": {},
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "\"description\"",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "code",
+                                "data": {}
+                              }
+                            ],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": ": A description that provides information about the NFT.",
+                            "marks": [],
+                            "selections": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "list-item",
+                "isVoid": false,
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "isVoid": false,
+                    "data": {},
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "\"properties\"",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "code",
+                                "data": {}
+                              }
+                            ],
+                            "selections": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": ": An array of properties or traits associated with the NFT.",
+                            "marks": [],
+                            "selections": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "Feel free to modify the ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "sample.json",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "code",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " file according to your specific NFT metadata requirements. You can add or remove fields and customize the values to accurately represent your NFT.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "object": "block",
+            "type": "paragraph",
+            "isVoid": false,
+            "data": {},
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "object": "leaf",
+                    "text": "By running this code, you can utilize the ",
+                    "marks": [],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": "aioz-w3ipfs-sdk",
+                    "marks": [
+                      {
+                        "object": "mark",
+                        "type": "code",
+                        "data": {}
+                      }
+                    ],
+                    "selections": []
+                  },
+                  {
+                    "object": "leaf",
+                    "text": " package to interact with the AIOZ W3IPFS service and pin files and folders to IPFS. Customize the code according to your specific requirements, including providing the appropriate API key and secret key, specifying the file/folder paths, and adjusting the options and metadata fields as needed.",
+                    "marks": [],
+                    "selections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "navList": {
+      "object": "revision",
+      "id": "7xOjVFSHUhmKjhBRTbQj",
+      "parents": ["WLIuPvLXfeXSY8QBXOjY", "j60EInVuafSkHZanRrDj"],
+      "pages": [
+        {
+          "id": "kWnJvi38qbk0ivAA35zR",
+          "title": "🧑💻 Quick start",
+          "kind": "sheet",
+          "type": "document",
+          "description": "This document will guide you through the quick start process to help you get started with our W3IPFS service. Let's dive in!",
+          "path": "quick-start",
+          "slug": "quick-start",
+          "pages": []
+        },
+        {
+          "id": "OxJu0gsQN4kePdlQ6DcO",
+          "title": "Concepts",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "concepts",
+          "slug": "concepts",
+          "pages": [
+            {
+              "id": "sPijnvV81v0YIHLvA263",
+              "title": "Decentralized Storage",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "concepts/decentralized-storage",
+              "slug": "decentralized-storage",
+              "pages": []
+            },
+            {
+              "id": "1b37bO24UxdkKeblaDPD",
+              "title": "IPFS Storage",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "concepts/ipfs-protocol",
+              "slug": "ipfs-protocol",
+              "pages": []
+            }
+          ]
+        },
+        {
+          "id": "JHM4IrX78c4gQQpHKGko",
+          "title": "W3IPFS Infrastructure",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "aioz-w3ipfs-infrastructure",
+          "slug": "aioz-w3ipfs-infrastructure",
+          "pages": []
+        },
+        {
+          "id": "lfOJlhKWYrko3enLWnCZ",
+          "title": "Tutorials",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "tutorials",
+          "slug": "tutorials",
+          "pages": [
+            {
+              "id": "NY7vYnhVgaDfzXunhQDD",
+              "title": "Store and mint NFTs using ERC-1155 metadata standards",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "tutorials/store-and-mint-nfts-using-erc-1155-metadata-standards",
+              "slug": "store-and-mint-nfts-using-erc-1155-metadata-standards",
+              "pages": []
+            },
+            {
+              "id": "XmqzU9criBqt08Awfqcs",
+              "title": "Store and mint NFTs using custom metadata",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "tutorials/store-and-mint-nfts-using-custom-metadata",
+              "slug": "store-and-mint-nfts-using-custom-metadata",
+              "pages": []
+            },
+            {
+              "id": "UFcYYlS7wXvzp16Iw9HH",
+              "title": "Getting upload status",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "tutorials/getting-upload-status",
+              "slug": "getting-upload-status",
+              "pages": []
+            },
+            {
+              "id": "kl8jAY9yH7Sj3YRC6w7Z",
+              "title": "Retrieve NFT data from IPFS",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "tutorials/retrieve-nft-data-from-ipfs",
+              "slug": "retrieve-nft-data-from-ipfs",
+              "pages": []
+            }
+          ]
+        },
+        {
+          "id": "YXNlmOhXuWmdmxAlMBmC",
+          "title": "W3IPFS API",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "w3ipfs-api",
+          "slug": "w3ipfs-api",
+          "pages": [
+            {
+              "id": "Cjykdpc0oktCLJSL04s3",
+              "title": "Users",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/users",
+              "slug": "users",
+              "pages": []
+            },
+            {
+              "id": "hi8ibVAfxhqoLkrEr4l9",
+              "title": "ApiKeys",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/apikeys",
+              "slug": "apikeys",
+              "pages": []
+            },
+            {
+              "id": "SV91KMNS98wkstXeIEjI",
+              "title": "Pinning",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/pinning",
+              "slug": "pinning",
+              "pages": []
+            },
+            {
+              "id": "tENIAGCX2X5Z0enydBYW",
+              "title": "Nft",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/nft",
+              "slug": "nft",
+              "pages": []
+            },
+            {
+              "id": "MNqxXvieUE0KsH45VGvG",
+              "title": "Gateways",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/gateways",
+              "slug": "gateways",
+              "pages": []
+            },
+            {
+              "id": "QchZ3o5kbAnf1Ee9nfFP",
+              "title": "Pinning Services API",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/pinning-services-api",
+              "slug": "pinning-services-api",
+              "pages": []
+            },
+            {
+              "id": "tcYtK5WKGQN7axPZ8D1H",
+              "title": "Billing",
+              "kind": "sheet",
+              "type": "document",
+              "description": "",
+              "path": "w3ipfs-api/billing",
+              "slug": "billing",
+              "pages": []
+            }
+          ]
+        },
+        {
+          "id": "zMfNTgpMJ8t8sKfczRd2",
+          "title": "Gateway",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "gateway",
+          "slug": "gateway",
+          "pages": [
+            {
+              "id": "CVQYKaJpW53kEdTHNOrR",
+              "title": "Understanding Gateways and their Importance in IPFS",
+              "kind": "sheet",
+              "type": "document",
+              "description": "This article aims to explain the purpose of gateways, why they are needed, and how they facilitate the retrieval of content from IPFS.",
+              "path": "gateway/understanding-gateways-and-their-importance-in-ipfs",
+              "slug": "understanding-gateways-and-their-importance-in-ipfs",
+              "pages": []
+            },
+            {
+              "id": "Kxxpp2tH9Z2t2eaedeFc",
+              "title": "The W3IPFS Public Gateway",
+              "kind": "sheet",
+              "type": "document",
+              "description": "This documentation provides an overview of the W3IPFS public gateway, a publicly accessible node that serves content pinned on the IPFS",
+              "path": "gateway/the-w3ipfs-public-gateway",
+              "slug": "the-w3ipfs-public-gateway",
+              "pages": []
+            },
+            {
+              "id": "x7prO73UN6qbFOKG7G0F",
+              "title": "Dedicated Gateways",
+              "kind": "sheet",
+              "type": "document",
+              "description": "This documentation provides a guide to dedicated gateways for the W3IPFS pinning service. Dedicated gateways offer faster speeds and increased rate limits for retrieving content stored on the IPFS",
+              "path": "gateway/dedicated-gateways",
+              "slug": "dedicated-gateways",
+              "pages": []
+            }
+          ]
+        },
+        {
+          "id": "yAVOoj1rVsVu4TK8RnFO",
+          "title": "SDK",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "sdk",
+          "slug": "sdk",
+          "pages": []
+        },
+        {
+          "id": "YdYCH2LvOzgyunsUerEx",
+          "title": "NFTs",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "nfts",
+          "slug": "nfts",
+          "pages": []
+        },
+        {
+          "id": "w5lbYEtsZEbIYzIeZKmd",
+          "title": "Payment",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "payment",
+          "slug": "payment",
+          "pages": []
+        },
+        {
+          "id": "KYrSSlih1GSjRllL1NfZ",
+          "title": "Limit",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "limit",
+          "slug": "limit",
+          "pages": []
+        },
+        {
+          "id": "9UviS8yjeXI6WQgPI6lL",
+          "title": "FAQ",
+          "kind": "sheet",
+          "type": "document",
+          "description": "Our aim is to provide you with a delightful experience. Here are some frequently asked questions to help you better understand w3ipfs Pinning Service:",
+          "path": "faq",
+          "slug": "faq",
+          "pages": []
+        }
+      ],
+      "files": [
+        {
+          "id": "pV0cJG5Ttbc0xobj8Vbk",
+          "name": "Neko-NEKO-Token-Tracker-Etherscan.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FHaReQ6MIxWp6Xwe9EtzD%2FNeko-NEKO-Token-Tracker-Etherscan.png?alt=media&token=08f61fc7-4fd2-43f6-aa73-b6dd29250bfa",
+          "contentType": "image/png"
+        },
+        {
+          "id": "8QjFhd46tav9lYVGFU3f",
+          "name": "ipfs-attoaioz-cyou-dashboard-ipfs-files.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2F7r8JH0Kg5zp6HdvNvWGs%2Fipfs-attoaioz-cyou-dashboard-ipfs-files.png?alt=media&token=cc51b04a-e9a7-4f0e-a1b9-9a92ebd6d5f1",
+          "contentType": "image/png"
+        },
+        {
+          "id": "AZSUqKLXZexxJniSYwVy",
+          "name": "Screenshot from 2023-06-21 10-43-44.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2F70XMjWhT8mUQ9L7AUX8y%2FScreenshot%20from%202023-06-21%2010-43-44.png?alt=media&token=be6e279d-0aec-42ee-b074-8bc03e74790f",
+          "contentType": "image/png"
+        },
+        {
+          "id": "f29M6bS3lFBCZL0wrr3R",
+          "name": "ipfs-attoaioz-cyou-dashboard-billing-tag-month-usage (1).png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FqNSwvSebz8YAQ2oLS6sf%2Fipfs-attoaioz-cyou-dashboard-billing-tag-month-usage%20(1).png?alt=media&token=4f3e54d8-eb80-417f-b377-78680357e240",
+          "contentType": "image/png"
+        },
+        {
+          "id": "RDzTw5In4qhKh0z6yhf4",
+          "name": "Screenshot from 2023-06-21 10-45-15.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2Fql3UPZqFyw3NjuWqzATR%2FScreenshot%20from%202023-06-21%2010-45-15.png?alt=media&token=783eaa56-8b53-4f78-82a2-1430d76928d7",
+          "contentType": "image/png"
+        },
+        {
+          "id": "TIhrELRWyhZhYvCZGine",
+          "name": "ipfs-attoaioz-cyou-dashboard-ipfs-files (1).png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FuuhWXBQ3HmXc54SX7gc1%2Fipfs-attoaioz-cyou-dashboard-ipfs-files%20(1).png?alt=media&token=07a7ce56-1cfc-4d13-b9ce-201fbfb7990d",
+          "contentType": "image/png"
+        },
+        {
+          "id": "Fqjti73ZNB3P9nluN5op",
+          "name": "ipfs-attoaioz-cyou-dashboard-billing-tag-month-usage.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2Foz8V3ffUdSr8ZQYVzzWL%2Fipfs-attoaioz-cyou-dashboard-billing-tag-month-usage.png?alt=media&token=45469c88-4563-4031-8059-95fcec892883",
+          "contentType": "image/png"
+        },
+        {
+          "id": "09RLQhTum58CHQoQJ5gT",
+          "name": "ipfs-attoaioz-cyou-dashboard-api-keys.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FEth1mOLhaYnofAHNUBVX%2Fipfs-attoaioz-cyou-dashboard-api-keys.png?alt=media&token=17a5bd1f-d5a2-4c4f-b7e1-63b379b98224",
+          "contentType": "image/png"
+        },
+        {
+          "id": "oFXCGn5aMihhJPfxR1ff",
+          "name": "ipfs-attoaioz-cyou-auth-register.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FDTKXiQN7GeSHBFmDPtJ0%2Fipfs-attoaioz-cyou-auth-register.png?alt=media&token=28a7bd06-5930-4d5b-a206-103839e665eb",
+          "contentType": "image/png"
+        },
+        {
+          "id": "ImHZ1UveUJfPYPEKkgEk",
+          "name": "Screenshot from 2023-06-21 10-36-04.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FnP4hIuPAajjjVD49K6hQ%2FScreenshot%20from%202023-06-21%2010-36-04.png?alt=media&token=aea6f919-552b-4579-89f0-17b7b0c0659e",
+          "contentType": "image/png"
+        },
+        {
+          "id": "g0oqY1WEANTa1sOSHjcp",
+          "name": "desktop-status.059adf67.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FxM87oB9IRFZjNPvmJ4tg%2Fdesktop-status.059adf67.png?alt=media&token=c4f1a1c9-bfe7-4afa-8f3c-18b630e1bc12",
+          "contentType": "image/png"
+        },
+        {
+          "id": "IWwRrbOj8fLjygXjHxCE",
+          "name": "Screenshot from 2023-06-16 10-30-30.png",
+          "downloadURL": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS2Kkejx9uaZJfLgdKPXo%2Fuploads%2FJwCBf1YwD6dZkRdmZynH%2FScreenshot%20from%202023-06-16%2010-30-30.png?alt=media&token=eea5a117-677a-461a-8e67-6852e590d08e",
+          "contentType": "image/png"
+        }
+      ],
+      "urls": {
+        "app": "https://app.gitbook.com/s/S2Kkejx9uaZJfLgdKPXo/~/revisions/7xOjVFSHUhmKjhBRTbQj/",
+        "published": "https://aioz-1.gitbook.io/api-docs/~/revisions/7xOjVFSHUhmKjhBRTbQj/",
+        "public": "https://aioz-1.gitbook.io/api-docs/~/revisions/7xOjVFSHUhmKjhBRTbQj/"
+      },
+      "git": {
+        "oid": "37cfb01a744544d471dd288a6e7618d187de26f0",
+        "message": "GITBOOK-98: change request with no subject merged in GitBook",
+        "createdByGitBook": true,
+        "url": "https://github.com/phantue99/go-blockservice/commit/37cfb01a744544d471dd288a6e7618d187de26f0"
+      }
+    },
+    "prev": null,
+    "next": {
+      "id": "OxJu0gsQN4kePdlQ6DcO",
+      "title": "Concepts",
+      "kind": "sheet",
+      "type": "document",
+      "description": "",
+      "path": "concepts",
+      "slug": "concepts",
+      "pages": [
+        {
+          "id": "sPijnvV81v0YIHLvA263",
+          "title": "Decentralized Storage",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "concepts/decentralized-storage",
+          "slug": "decentralized-storage",
+          "pages": []
+        },
+        {
+          "id": "1b37bO24UxdkKeblaDPD",
+          "title": "IPFS Storage",
+          "kind": "sheet",
+          "type": "document",
+          "description": "",
+          "path": "concepts/ipfs-protocol",
+          "slug": "ipfs-protocol",
+          "pages": []
+        }
+      ]
+    },
+    "pageRefsMapping": {}
+  },
+  "__N_SSG": true
+}
