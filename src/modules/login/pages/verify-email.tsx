@@ -1,29 +1,38 @@
-import { VerifyEmailReponse } from '@/apis/auth/type'
+import { authApis } from '@/apis/auth'
 import ButtonCustomized from '@/components/atoms/button'
-import Congratulation from '@/modules/login/components'
 import FormHeading from '@/components/molecules/form-heading'
-import { AppRouter, DEFAULT_AUTO_REDICRECT } from '@/constants'
+import { AppRouter } from '@/constants'
 import { useUpdateStateLogin } from '@/redux/auth/hooks'
-import { Alert, Button, Stack, Typography } from '@mui/material'
+import { yupResolver } from '@hookform/resolvers/yup'
+import { OutlinedInput, Stack } from '@mui/material'
 import Link from 'next/link'
-import { useEffect } from 'react'
+import { Controller } from 'react-hook-form'
 
-const VerifyEmailContent = ({
-  status,
-  data,
-}: {
-  status: 'error' | 'success'
-  data: string | VerifyEmailReponse
-}) => {
+import { useForm } from 'react-hook-form'
+
+import * as yup from 'yup'
+
+export const formLoginSchema = yup.object({
+  code: yup.string(),
+})
+
+const VerifyEmailContent = ({}: {}) => {
   const handleSetStateLogin = useUpdateStateLogin()
-  useEffect(() => {
-    if (data) {
-      if (typeof data === 'string') {
-      } else {
-        handleSetStateLogin(data.access_token, data.refresh_token)
-      }
-    }
-  }, [data])
+
+  const {
+    control,
+    handleSubmit,
+    formState: { errors },
+  } = useForm({
+    resolver: yupResolver(formLoginSchema),
+    defaultValues: {
+      code: '',
+    },
+    mode: 'onSubmit',
+  })
+  const handleClick = async (data: any) => {
+    authApis.verifyEmail(data).then((res) => {})
+  }
   return (
     <Stack
       justifyContent={'center'}
@@ -32,34 +41,36 @@ const VerifyEmailContent = ({
       padding={{ xs: 0, md: 8 }}
       overflow={'hidden'}
     >
-      {status === 'success' && (
-        <Congratulation
-          pushHrefSuccess={AppRouter.IPFS_FILES}
-          title='Congratulations !'
-          description='Your account has been successfully created.'
-          directionText='Go to dashboard'
-        />
-      )}
-      {status === 'error' && (
-        <>
-          <FormHeading title='Verify email'></FormHeading>
-          <Alert severity='error'>
-            <Typography variant='body2' fontWeight={600}>
-              {data as string}
-            </Typography>
-          </Alert>
-          <Link href={AppRouter.LOGIN} passHref>
-            <ButtonCustomized
-              variant='contained'
-              color='secondary'
+      <>
+        <FormHeading title='Verify code'></FormHeading>
+
+        <Controller
+          name='code'
+          control={control}
+          render={({ field }) => (
+            <OutlinedInput
+              {...field}
+              autoFocus
+              color='primary'
+              placeholder='Code'
               fullWidth
-              size='large'
-            >
-              Back to login
-            </ButtonCustomized>
-          </Link>
-        </>
-      )}
+              error={!!errors.code}
+              tabIndex={1}
+            />
+          )}
+        />
+        <ButtonCustomized
+          variant='contained'
+          color='secondary'
+          fullWidth
+          size='large'
+        >
+          verify
+        </ButtonCustomized>
+        <Link href={AppRouter.LOGIN} passHref>
+          Back to login
+        </Link>
+      </>
     </Stack>
   )
 }

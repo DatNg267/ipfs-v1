@@ -52,28 +52,17 @@ const FormLogin = (props: Props) => {
   const [error, setError] = React.useState<string | null>(null)
 
   const onSubmit = async (data: any) => {
+    console.log('dsadas')
     setError(null)
     setStatus('pending')
     await handleLogin({ ...data })
       .then(async (res) => {
-        const pass = router?.query?.pass?.toString()
-        const prev = router.query.prev
-        if (pass) {
-          await router.push(pass)
-          setStatus('success')
-        } else if (prev) {
-          await router.back()
-          setStatus('success')
-        } else {
-          await router.push(AppRouter.IPFS_FILES)
-          setStatus('success')
-        }
+        await router.push(AppRouter.VERIFY_EMAIL + `?email=${data.email}`)
+        setStatus('success')
       })
       .catch(async (err: Error) => {
         if (err.message === UserErrorMessage.USER_NOT_VERIFIED) {
-          // setStatus('verify')
           router.push(AppRouter.RESEND_MAIL + `?email=${data.email}`)
-          // handleResendMail(data.email)
         } else {
           setError(err.message)
           setStatus('fail')
@@ -182,12 +171,6 @@ const FormLogin = (props: Props) => {
         fullWidth
         size='large'
         animateDisabled={status === 'pending'}
-        onClick={(e) => {
-          if (status === 'pending') {
-            e.preventDefault()
-            return
-          }
-        }}
         startIcon={
           status === 'pending' && (
             <CircularProgress
